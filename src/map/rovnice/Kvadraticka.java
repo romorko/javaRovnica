@@ -18,7 +18,7 @@ public class Kvadraticka extends Rovnica
     @Override
     protected void vypisKorene()
     {
-
+        //blablabla
     }
 
     @Override
